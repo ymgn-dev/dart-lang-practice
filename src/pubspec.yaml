@@ -1,0 +1,7 @@
+name: dart_lang_practice
+description: Dart Lang Practice
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+
+dependencies:
